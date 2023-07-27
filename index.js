@@ -1,5 +1,5 @@
 // Challenge - 1
-// Use a for loop to calculate the sum of the numbers in the given array.
+// Use a for loop to calculate the sum of the numbers in the given array..
 let arrayNumbers = [3, 4, 6, 8, 90, 65, 75, 75, 54, 10]
 
 
